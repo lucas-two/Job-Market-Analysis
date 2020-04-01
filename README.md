@@ -7,6 +7,7 @@ Applying data analystics to study SEEK job market data. Consists of three parts:
 * III Evaluation  
  
 ## Group Members
+Jarrer Hensel (s_______)  
 Lucas Geurtjens (s5138241)  
 
 ## Details
