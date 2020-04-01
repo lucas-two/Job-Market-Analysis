@@ -3,11 +3,11 @@
 ## About:
 Applying data analystics to study SEEK job market data.
 
-Consists of three parts:
-I - Data preperation and preprocessing
-II - Data analysis and interpretation
-III - Evaluation
-
+Consists of three parts:  
+I - Data preperation and preprocessing  
+II - Data analysis and interpretation  
+III - Evaluation  
+ 
 ## Group Members:
 Lucas Geurtjens (s5138241)  
 ... (sXXXXXXXX)
