@@ -10,5 +10,5 @@ Applying data analystics to study SEEK job market data. Consists of three parts:
 Lucas Geurtjens (s5138241)  
 
 ## Details:
-Course: 3803ICT Big Data Analysis
+Course: 3803ICT Big Data Analysis  
 Due: 22/04/2020 before midnight
