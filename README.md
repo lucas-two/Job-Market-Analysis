@@ -1,9 +1,7 @@
 # Assignment 1: Job Market Analysis
 
 ## About:
-Applying data analystics to study SEEK job market data.
-
-Consists of three parts:  
+Applying data analystics to study SEEK job market data. Consists of three parts:  
 * I Data preperation and preprocessing  
 * II Data analysis and interpretation  
 * III Evaluation  
