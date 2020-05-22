@@ -12,4 +12,4 @@ Lucas Geurtjens (s5138241)
 
 ## Details
 Course: 3803ICT Big Data Analysis  
-Due: 22/04/2020 before midnight
+Due: 22/05/2020 before midnight (Extended until 24/05/2020)
