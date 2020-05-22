@@ -12,7 +12,7 @@ ACT job postings were found to have the highest salaries attached, with an avera
 <br /><br />
 The next highest areas were Port Hedland, Karratha & Pilbara with an average salary of $90,000, followed by Sydney, Mackay & Coalfields, Kalgoorlie Goldfields & Esperance, Darwin, and Perth averaging approximately $85,000. One thing to notice about these smaller areas with such high salaries is that they are all areas with a specific focus on mining jobs as seen by the graphs below:
 <br /><br />
-<img src="images/Top_Jobtypes_listed_in_Perth.png">
+<img src="images/Top_Jobtypes_listed_in_Perth.PNG">
 <img src="images/Top_Jobtypes_listed_in_Mackay.png">
 <img src="images/Top_Jobtypes_listed_in_PortHedland.png">
 <img src="images/Top_Jobtypes_listed_in_Kalgoorlie.png">
