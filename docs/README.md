@@ -42,7 +42,7 @@ Using Three-Month Moving Average predictions, it is predicted that in April ther
 # Classifications
 ## Marketshare
 <img src="images/Classification_Market_Share.png">
-Firstly, it was found that Information & Communication Technology (IT) jobs held the highest market share, being 11.73% of the job listings. This is was followed by Trades & Services (9.2%) and Healthcare & Medical with (8.75%). Some of the lowest are CEO & General Management (0.41%), Advertising, Arts & Media (0.39%) and Self Employment (0.05%).
+It was found that Information & Communication Technology (IT) jobs held the highest market share, being 11.73% of the job listings. This is was followed by Trades & Services (9.2%) and Healthcare & Medical with (8.75%). Some of the lowest are CEO & General Management (0.41%), Advertising, Arts & Media (0.39%) and Self Employment (0.05%).
 <br /><br />
 <img src="images/Averrage_Classification_Salary.png">
 In contrast, it appeared the classification with the highest average salary was CEO & General Management, having an average salary of $158,055. This was followed by IT ($131,041) and Consulting & Strategy ($122,655). The lowest average salary was held by Hospitality & Tourism ($41,1374).
