@@ -3,19 +3,18 @@
 # Location
 ## Marketshare
 <img src="images/Location_Market_Share_Top_25.png" style="display:block">
-We see that Sydney is our most popular city...
+Australia’s most densely populated cities were seen to hold most of the market share job postings, with Sydney being the largest at 31%, followed by Melbourne at 24% and Brisbane at 11%. After that was Perth, Adelaide, ACT, Newcastle, and Gold Coast ranging between 2-7%. The remaining cities all held a market share of less than 1%.
 <br /><br />
 <img src="images/Average_Salaries_Top_25.png" style="display:block">
-ACT has our highest salary...
+ACT job postings were found to have the highest salaries attached, with an average salary of over $100,000. This could be attributed to most jobs in that area consisting of federal government positions which typically pay well. 
+The next highest areas were Port Hedland, Karratha & Pilbara with an average salary of $90,000, followed by Sydney, Mackay & Coalfields, Kalgoorlie Goldfields & Esperance, Darwin, and Perth averaging approximately $85,000. One thing to notice about these smaller areas with such high salaries is that they are all areas with a specific focus on mining jobs as seen by the graphs below:
 <br /><br />
-
-## Popular Mining Locations
 <img src="images/Top_Jobtypes_listed_in_Perth.png">
 <img src="images/Top_Jobtypes_listed_in_Mackay.png">
 <img src="images/Top_Jobtypes_listed_in_PortHedland.png">
 <img src="images/Top_Jobtypes_listed_in_Kalgoorlie.png">
 <br />
-Interestingly these cities have mining as a popular classification. This is likely because they are all mining cities...
+The lowest salary locations were seeing to have an average salary of around $60,000. This included places such as Mornington Peninsula & Bass Coast, Bendigo Goldfields & Macedon Ranges, South West Coast, Sunshine Coast, and Gold Coast.
 <br /><br />
 
 ## Posting Frequency
@@ -23,7 +22,7 @@ Interestingly these cities have mining as a popular classification. This is like
 As we can see...
 <br /><br />
 <img src="images/Posting_Frequency_Per_Month.png">
-As we can see...
+We can see some very revealing trends from this graph, showing a drastic tapering off from 65,000 postings in October 2018 to practically no jobs being posted throughout December. This makes complete sense as it is a time for holidays and celebrations with most businesses slowing down and holding off recruitment until the new year. From this, we see a huge spike in January 2019 with over 100,000 postings as both businesses and job seekers have a renewed motivation and plans for the year ahead. In February we see a big drop off with a rise back to around 65,000 postings in March. 
 <br /><br />
 <img src="images/Posting_Frequeny_Days_In_Month.png">
 As we can see...
@@ -38,16 +37,16 @@ Here is some forecasting we have done. It has shown us that...
 # Classifications
 ## Marketshare
 <img src="images/Classification_Market_Share.png">
-We can see most jobs are CEO related and IT related...
+Firstly, it was found that Information & Communication Technology (IT) jobs held the highest market share, being 11.73% of the job listings. This is was followed by Trades & Services (9.2%) and Healthcare & Medical with (8.75%). Some of the lowest are CEO & General Management (0.41%), Advertising, Arts & Media (0.39%) and Self Employment (0.05%).
 <br /><br />
 <img src="images/Averrage_Classification_Salary.png">
-The salaries are...
+In contrast, it appeared the classification with the highest average salary was CEO & General Management, having an average salary of $158,055. This was followed by IT ($131,041) and Consulting & Strategy ($122,655). The lowest average salary was held by Hospitality & Tourism ($41,1374).
 <br /><br />
 
 ## IT Sub-Classifications
 <img src="images/Average_IT_SubClass_Salary.png">
-As we see computer architects have the highest salary...
+It was found that the most common IT sub-classification was Developers/Programmers. This was followed by Business/Systems Analysts and Programme & Project Management. The fewest listings were held by Hardware Engineering, Technical Writing, and then Computer Operators. The highest paying IT jobs were Architects, earning an average salary of $168,198. Following this was Programme & Project Management ($156,651) and Security ($141,269). Developers/Programmers job listings had a midrange average salary of $126,880. Help Desk & IT Support had the lowest average salary of $61,622.
 <br /><br />
 <img src="images/Popular_IT_Technologies.png">
-We see the the most popular skill is learning Java..
+Finally, a set of popular technologies were queried against the requirements of the IT job listings. It found that Java was the most mentioned technology, mentioned by 353 unique classifications. This was followed by AWS (248 mentions), and SQL (215 mentions). Python had midrange mentions of 101. Rust, Matlab, Objective-C, and C# did not have any mentions.
 <br /><br />
