@@ -8,7 +8,7 @@ Australia’s most densely populated cities were seen to hold most of the market
 <img src="images/Average_Salaries_Top_25.png" style="display:block">
 ACT job postings were found to have the highest salaries attached, with an average salary of over $100,000. This could be attributed to most jobs in that area consisting of federal government positions which typically pay well. 
 <br /><br />
-<img src="images/Top_Jobtypes_listed_in_Perth.png">
+<img src="images/Top_Jobtypes_listed_in_ACT.png">
 <br /><br />
 The next highest areas were Port Hedland, Karratha & Pilbara with an average salary of $90,000, followed by Sydney, Mackay & Coalfields, Kalgoorlie Goldfields & Esperance, Darwin, and Perth averaging approximately $85,000. One thing to notice about these smaller areas with such high salaries is that they are all areas with a specific focus on mining jobs as seen by the graphs below:
 <br /><br />
