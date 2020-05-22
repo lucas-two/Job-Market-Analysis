@@ -14,6 +14,7 @@ ACT has our highest salary...
 <img src="images/Top_Jobtypes_listed_in_Mackay.png">
 <img src="images/Top_Jobtypes_listed_in_PortHedland.png">
 <img src="images/Top_Jobtypes_listed_in_Kalgoorlie.png">
+<br />
 Interestingly these cities have mining as a popular classification. This is likely because they are all mining cities...
 <br /><br />
 
