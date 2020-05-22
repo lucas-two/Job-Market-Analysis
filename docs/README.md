@@ -7,28 +7,29 @@ Australia’s most densely populated cities were seen to hold most of the market
 <br /><br />
 <img src="images/Average_Salaries_Top_25.png" style="display:block">
 ACT job postings were found to have the highest salaries attached, with an average salary of over $100,000. This could be attributed to most jobs in that area consisting of federal government positions which typically pay well. 
-<br />
+<br /><br />
 <img src="images/Top_Jobtypes_listed_in_Perth.png">
-<br />
+<br /><br />
 The next highest areas were Port Hedland, Karratha & Pilbara with an average salary of $90,000, followed by Sydney, Mackay & Coalfields, Kalgoorlie Goldfields & Esperance, Darwin, and Perth averaging approximately $85,000. One thing to notice about these smaller areas with such high salaries is that they are all areas with a specific focus on mining jobs as seen by the graphs below:
 <br /><br />
 <img src="images/Top_Jobtypes_listed_in_Perth.png">
 <img src="images/Top_Jobtypes_listed_in_Mackay.png">
 <img src="images/Top_Jobtypes_listed_in_PortHedland.png">
 <img src="images/Top_Jobtypes_listed_in_Kalgoorlie.png">
-<br />
+<br /><br />
 The lowest salary locations were seeing to have an average salary of around $60,000. This included places such as Mornington Peninsula & Bass Coast, Bendigo Goldfields & Macedon Ranges, South West Coast, Sunshine Coast, and Gold Coast.
 <br /><br />
 
 ## Posting Frequency
 <img src="images/Job_listing_frequency_over_time.png">
-As we can see...
+As we can see, job listings frequency is very volatile with clear low periods in the month of December 2018 and around Febuary/March 2019. This could be due to many reasons, so to understand this clearer, we can break it down into monthly periods as seen below:
 <br /><br />
 <img src="images/Posting_Frequency_Per_Month.png">
 We can see some very revealing trends from this graph, showing a drastic tapering off from 65,000 postings in October 2018 to practically no jobs being posted throughout December. This makes complete sense as it is a time for holidays and celebrations with most businesses slowing down and holding off recruitment until the new year. From this, we see a huge spike in January 2019 with over 100,000 postings as both businesses and job seekers have a renewed motivation and plans for the year ahead. In February we see a big drop off with a rise back to around 65,000 postings in March. 
 <br /><br />
 <img src="images/Posting_Frequeny_Days_In_Month.png">
 From looking at the days at which jobs were posted, it is seen that most postings occur within the first 20 days, and then taper off towards the end of each month. This is made clearer through looking at the frequency histogram using groups (or bins) of 4 and 6 below:
+<br /><br />
 <img src="images/Posting_Frequeny_Days_In_Month_Hist.png">
 <br /><br />
 
