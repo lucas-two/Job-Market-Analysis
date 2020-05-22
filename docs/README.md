@@ -38,16 +38,16 @@ Here is some forecasting we have done. It has shown us that...
 # Classifications
 ## Marketshare
 <img src="images/Classification_Market_Share.png">
-We can see most jobs are CEO related and IT related...
+Firstly, it was found that Information & Communication Technology (IT) jobs held the highest market share, being 11.73% of the job listings. This is was followed by Trades & Services (9.2%) and Healthcare & Medical with (8.75%). Some of the lowest are CEO & General Management (0.41%), Advertising, Arts & Media (0.39%) and Self Employment (0.05%).
 <br /><br />
 <img src="images/Averrage_Classification_Salary.png">
-The salaries are...
+In contrast, it appeared the classification with the highest average salary was CEO & General Management, having an average salary of $158,055. This was followed by IT ($131,041) and Consulting & Strategy ($122,655). The lowest average salary was held by Hospitality & Tourism ($41,1374).
 <br /><br />
 
 ## IT Sub-Classifications
 <img src="images/Average_IT_SubClass_Salary.png">
-As we see computer architects have the highest salary...
+It was found that the most common IT sub-classification was Developers/Programmers. This was followed by Business/Systems Analysts and Programme & Project Management. The fewest listings were held by Hardware Engineering, Technical Writing, and then Computer Operators. The highest paying IT jobs were Architects, earning an average salary of $168,198. Following this was Programme & Project Management ($156,651) and Security ($141,269). Developers/Programmers job listings had a midrange average salary of $126,880. Help Desk & IT Support had the lowest average salary of $61,622.
 <br /><br />
 <img src="images/Popular_IT_Technologies.png">
-We see the the most popular skill is learning Java..
+Finally, a set of popular technologies were queried against the requirements of the IT job listings. It found that Java was the most mentioned technology, mentioned by 353 unique classifications. This was followed by AWS (248 mentions), and SQL (215 mentions). Python had midrange mentions of 101. Rust, Matlab, Objective-C, and C# did not have any mentions.
 <br /><br />
