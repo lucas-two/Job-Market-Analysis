@@ -58,7 +58,7 @@ In contrast, it appeared the classification with the highest average salary was 
 As abovementioned, the `Healthcare & Medical` classification only had the 11th highest average salary.
 <br /><br />
 <img src="images/Average_Medical_SubClass_Salary.png">
-However, upon investigating the highest average salary per sub-classification, it was found that both `General Practitioners` and `Medical Specialists` had the highest average salary of all sub-classifications (both nearing $200,000).
+However, upon investigating the highest average salary per sub-classification, it was found that both General Practitioners and Medical Specialists had the highest average salary of all sub-classifications (both nearing $200,000).
 <br /><br />
 <img src="images/Average_Medical_SubClass_Salary.png">
 By looking at the average salary for all `Healthcare & Medical` classification listings, it becomes clear that the average is being skewed by the population of lower-paying sub-classifications (most of which are below $100,000). For example, a Medical Administrator has an average salary of only $50,000. 
