@@ -18,7 +18,7 @@ The next highest areas were Port Hedland, Karratha & Pilbara with an average sal
 <img src="images/Top_Jobtypes_listed_in_Kalgoorlie.png">
 <br /><br />
 The lowest salary locations were seeing to have an average salary of around $60,000. This included places such as Mornington Peninsula & Bass Coast, Bendigo Goldfields & Macedon Ranges, South West Coast, Sunshine Coast, and Gold Coast.
-<br /><br />
+<br />
 
 ## Market Growth Oppotunity
 <img src="images/Sydney_vs_Perth_Listings_For_IT.png">
