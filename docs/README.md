@@ -54,6 +54,16 @@ It was found that Information & Communication Technology (IT) jobs held the high
 In contrast, it appeared the classification with the highest average salary was CEO & General Management, having an average salary of $158,055. This was followed by IT ($131,041) and Consulting & Strategy ($122,655). The lowest average salary was held by Hospitality & Tourism ($41,1374).
 <br /><br />
 
+## Medical Sub-Classifications
+As abovementioned, the `Healthcare & Medical` classification only had the 11th highest average salary.
+<br /><br />
+<img src="images/Average_Medical_SubClass_Salary.png">
+However, upon investigating the highest average salary per sub-classification, it was found that both General Practitioners and Medical Specialists had the highest average salary of all sub-classifications (both nearing $200,000).
+<br /><br />
+<img src="images/Average_Medical_SubClass_Salary.png">
+By looking at the average salary for all `Healthcare & Medical` classification listings, it becomes clear that the average is being skewed by the population of lower-paying sub-classifications (most of which are below $100,000). For example, a Medical Administrator has an average salary of only $50,000. 
+<br /><br />
+
 ## IT Sub-Classifications
 <img src="images/Average_IT_SubClass_Salary.png">
 It was found that the most common IT sub-classification was Developers/Programmers. This was followed by Business/Systems Analysts and Programme & Project Management. The fewest listings were held by Hardware Engineering, Technical Writing, and then Computer Operators. The highest paying IT jobs were Architects, earning an average salary of $168,198. Following this was Programme & Project Management ($156,651) and Security ($141,269). Developers/Programmers job listings had a midrange average salary of $126,880. Help Desk & IT Support had the lowest average salary of $61,622.
