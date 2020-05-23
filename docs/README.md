@@ -19,6 +19,7 @@ The next highest areas were Port Hedland, Karratha & Pilbara with an average sal
 <br /><br />
 The lowest salary locations were seeing to have an average salary of around $60,000. This included places such as Mornington Peninsula & Bass Coast, Bendigo Goldfields & Macedon Ranges, South West Coast, Sunshine Coast, and Gold Coast.
 <br /><br />
+
 ## Market Growth Oppotunity
 <img src="images/Sydney_vs_Perth_Listings_For_IT.png">
 It is believed that the IT job market in Perth should be expanded. Perth’s population is approx. 2 million whereas Brisbane has a population of only approx. 2.3 million – this is a difference of 15% in size. Nevertheless, it was found that Perth had only 1092 IT job listings whereas Brisbane has 2,627 listings – this is 58.5% more listings in Brisbane. Thus, it appears there is significant room for the IT industry to grow in Perth.
