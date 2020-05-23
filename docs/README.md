@@ -23,7 +23,7 @@ The lowest salary locations were seeing to have an average salary of around $60,
 ## Market Growth Oppotunity
 <img src="images/Sydney_vs_Perth_Listings_For_IT.png">
 <br />
-It is believed that the IT job market in Perth should be expanded. Perth’s population is approx. 2 million whereas Brisbane has a population of only approx. 2.3 million – this is a difference of 15% in size. Nevertheless, it was found that Perth had only 1092 IT job listings whereas Brisbane has 2,627 listings – this is 58.5% more listings in Brisbane. Thus, it appears there is significant room for the IT industry to grow in Perth.
+It is believed that the IT job market in Perth should be expanded. Perth’s population is approx. 2 million whereas Brisbane has a population of only approx. 2.3 million – this is a difference of 15% in size. Nevertheless, it was found that Perth had only 1092 IT job listings whereas Brisbane has 2,627 listings – this is 58.5% more listings in Brisbane. Thus, it appears there is significant room for the IT industry to grow in Perth to closer match Brisbane.
 <br /><br />
 
 ## Posting Frequency
