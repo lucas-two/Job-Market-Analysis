@@ -1,10 +1,12 @@
 # Assignment 1: Job Market Analysis
 
 ## About
-Applying data analystics to study SEEK job market data. Consists of three parts:  
-* I Data preperation and preprocessing  
-* II Data analysis and interpretation  
-* III Evaluation  
+Applying data analystics to study SEEK job market data using Python. Consists of three parts:  
+* 1 Data preperation and preprocessing  
+* 2 Data analysis and interpretation  
+* 3 Evaluation  
+
+To view the data story via GitHub.io Pages see: https://lucas-two.github.io/Job-Market-Analysis/
  
 ## Group Members
 Jarrer Hensel (s5111867)  
