@@ -42,7 +42,7 @@ From looking at the days at which jobs were posted, it is seen that most posting
 ## Forecasting
 <img src="images/Moving_Average.png">
 <img src="images/Moving_Average_A_Values.png">
-Using Three-Month Moving Average predictions, it is predicted that in April there will be 70561 postings, in May there will be 53889, and in June we will see 57646 postings. There is a limitation with the accuracy of this prediction due to the limited amount of months and the vast volatility around January as a huge, one a year spike.
+Using Three-Month Moving Average predictions, it is predicted that in April there will be 70561 postings, in May there will be 53889, and in June we will see 57646 postings. There is a limitation with the accuracy of this prediction due to the limited amount of months and the vast volatility around January as a huge, one a year spike. Because of this, we used exponential smoothing with alpha values of 0.2 and 0.8, it predicts that March 2019 postings will be approximately 40,000 and April postings between 50,000 - 60,000.
 <br /><br />
 
 # Classifications
